@@ -14,6 +14,7 @@ const Home = () => {
             <div className='download'>Download</div>
             <div className='signup'>Sign up</div>
             <div className='login'>Log In</div>
+            <div className='hlo'>hlo</div>
         </>
     )
 }
