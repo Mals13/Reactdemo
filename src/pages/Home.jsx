@@ -22,11 +22,11 @@ const Home = () => {
 
             <div className='container2'>
                 <div className='write'>
-                    <div className='h1'>Music for everyone.</div>
-                    <div className='h2'>Millions of songs. No credit card needed.</div>
+                    <div className='h1'>Music for everyone.</div><br></br>
+                    <div className='h2'>Millions of songs. No credit card needed.</div><br></br>
                     <Link to={"/Login"} >
                         {/* <div className='b'>GET SPOTIFY FREE</div></Link> */}
-                        <button type="submit" value="Submit">Submit</button></Link>
+                        <br></br> <button type="submit" value="Submit">Get Spotify Free</button></Link>
                 </div>
             </div>
 
